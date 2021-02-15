@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hey this is a blog I made through GitHub Learning
 
-I'm glad you are here. I plan to talk about ...
+Thanks for visiting! My main website is [here](https://lightningholt.github.io)
